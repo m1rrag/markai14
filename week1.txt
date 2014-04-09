@@ -9,3 +9,25 @@ Week 1 hardware goal:
 -Agree on project
 -creat shopping list
 
+Component list:
+Protoboard. The type with copper circles.
+Atmel AVR Atmega16 microcontroller
+Programmer to program the Atmega16
+64 Leds
+2 status leds. I used red and green. (optional)
+Max232 rs-232 chip, or equivalent.
+16 resistors for leds. (100-400ohms) will get back to this.
+2x resistor 470 ohm. for status leds
+1x resistor 10k
+4x resistor 2.2k
+4x NPN transistor BC338 (or other transistor capable of switching 250-ish mA)
+1x 10uF capacitor
+1x 1000uF capacitor
+6x 0.1uF ceramic capacitor
+2x 22pF ceramic capacitor
+1x crystal 14.7456 MHz
+2x tactile button
+optional pwr switch
+connector for 12v power
+optional connector for 5v power
+
