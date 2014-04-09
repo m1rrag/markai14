@@ -1,6 +1,11 @@
 Kaila Marfori markai14@evergreen.edu 
 Bodhi Stanberry bodhi.stanberry@gmail.com
 
-week 1 goal:
+week 1 software goal:
 Complete the Functions section of Functions 
 read through processing tutorials 
+
+Week 1 hardware goal:
+-Agree on project
+-creat shopping list
+
