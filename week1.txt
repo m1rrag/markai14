@@ -31,3 +31,8 @@ optional pwr switch
 connector for 12v power
 optional connector for 5v power
 
+=====
+Review from Mirrah:
+Very specific components list- good! Please include what your final product will be: what does it do, how 
+does it work?
+
